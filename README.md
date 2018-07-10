@@ -1,8 +1,8 @@
 React Component With Animated Borders
 
-![animated borders](https://gfycat.com/TeemingOrneryBushbaby)
+![animated borders](https://thumbs.gfycat.com/TeemingOrneryBushbaby-size_restricted.gif)
 
-# Prerequisistes
+# Prerequisite
 
  - styled-components
 
