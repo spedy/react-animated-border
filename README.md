@@ -1,6 +1,6 @@
 React Component With Animated Borders
 
-![animated borders](https://thumbs.gfycat.com/TeemingOrneryBushbaby-size_restricted.gif)
+![animated borders](https://res.cloudinary.com/voyade/image/upload/v1534843098/misc/react-border-animation.gif)
 
 # Prerequisite
 
